@@ -22,9 +22,7 @@ alert(" Welcome " +name+"! We have a few more questions for you.");
 var cansDrank = prompt(" How many cans of soda did you drink today?");
 console. log(cansDrank);
 
+
 //Create a variable for current date
 var currentDate = prompt(" What is todays date?")
 console. log(currentDate);
-
-var currentDate * 365 = cansDrank
-console. log(cansDrank);
