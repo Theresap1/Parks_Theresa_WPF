@@ -8,6 +8,9 @@
 
 //create a js file that will tell how much you need to double your recipe
 
+//Alert the user to double their recipe
+alert("Double your recipe");
+
 
 //create a variable the original measurements
 var measurements = prompt(" Please type in original measurement:");
