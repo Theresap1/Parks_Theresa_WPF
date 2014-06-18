@@ -28,7 +28,7 @@ var numberOfDays = prompt(" How many days do you want drink soda?");
 console.log(numberOfDays);
 
 
-//Calcucalations
+//Calculations
 var totalCans = cansDrank*numberOfDays;
 console.log(totalCans);
 
