@@ -14,14 +14,13 @@ alert("Double your recipe");
 
 //create a variable the original measurements
 var measurements = prompt(" Please type in original measurement:");
-
 //console.log out that recipe measurement
 console.log(measurements);
 
-//Calculations
-var measurements = (measurements*2);
+//double calculations
+var measurements = (measurements*2.);
 console.log(measurements);
 
 //Console.log and alert with final info
-console.log(measurements);
-//alert(measurements+" multiply by 2.");
+console.log(measurements+" measurements.");
+alert(measurements+"   measurements.");
