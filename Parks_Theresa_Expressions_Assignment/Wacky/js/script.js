@@ -20,3 +20,7 @@ alert(" Welcome" +name+"! Do you know how much you can save with little effort?"
 
 alert(" Welcome" +name+"! I call this my money machine.");
 
+//Create variable and prompt user for how much money they can put away to save per day.
+var moneySaved = prompt(" How much money can you put away per day?"+" Enter in dollar amounts.");
+console.log(moneySaved);
+
