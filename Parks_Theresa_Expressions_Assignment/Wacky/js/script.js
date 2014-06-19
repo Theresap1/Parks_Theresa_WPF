@@ -16,11 +16,19 @@ var name = prompt( " Please type in your name:");
 console.log(name);
 
 //Alert user and tell them Welcome
-alert(" Welcome" +name+"! Do you know how much you can save with little effort?");
+alert(" Welcome" +name+"! Do you want to know how much you can save with little effort?");
 
 alert(" Welcome" +name+"! I call this my money machine.");
 
 //Create variable and prompt user for how much money they can put away to save per day.
 var moneySaved = prompt(" How much money can you put away per day?"+" Enter in dollar amounts.");
 console.log(moneySaved);
+
+//Create a variable for current date
+var numberOfDays = prompt(" Tell me how many days");
+console.log(numberOfDays);
+
+//create var for calculations for money machine total savings
+var totalMoneySaved = moneySaved*numberOfDays;
+console.log(totalMoneySaved);
 
