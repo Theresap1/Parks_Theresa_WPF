@@ -37,7 +37,7 @@ console.log(name+" you have drank "+totalCans+" cans of soda.");
 alert(name+" you have drank "+totalCans+" cans of soda.");
 
 /*
-//Arrary
+//Array
 var dansArray = ["red", "blue", "green"];
 console.log(dansArray[0]+" "+ dansArray[1]+" "+dansArray[2]);
     */
