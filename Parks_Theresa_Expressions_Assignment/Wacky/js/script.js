@@ -32,3 +32,5 @@ console.log(numberOfDays);
 var totalMoneySaved = moneySaved*numberOfDays;
 console.log(totalMoneySaved);
 
+console.log(name+" money saved  "+totalMoneySaved+" Congradulations this is how much money you can save.");
+alert(name+" money saved  "+totalMoneySaved+" Congradulations this is how much money you can  save.");
