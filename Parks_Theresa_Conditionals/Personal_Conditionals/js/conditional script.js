@@ -8,10 +8,11 @@
 //alert ("Testing 1,2,3");
 alert ("Testing 1,2,3");
 
-//if temperature in the house is > 80 turn on air conditioner.
+//if temperature in the house is >80 turn on air conditioner.
+//if temperature in the house is <80 turn on fans.
 
 if("temp >80"){
-    ("turn On Air Conditioner")();
+    (" Turn On Air Conditioner")();
 }else{
     "turn on fans"
 }
