@@ -21,7 +21,7 @@ if(toolBoxOfTools(0)==="plier"){
     console.log("tool is not a plier.");
 }
 
-f(toolBoxOfTools(1)==="plier"){
+if(toolBoxOfTools(1)==="plier"){
 
     totalNumTools++;
 }else{
@@ -33,3 +33,24 @@ if(toolBoxOfTools(2)==="plier"){
 }else{
     console.log("tool is not a plier.");
 }
+if(toolBoxOfTools(3)==="plier"){
+
+    totalNumTools++;
+}else{
+    console.log("tool is not a plier.");
+}
+
+if(toolBoxOfTools(4)==="plier"){
+
+    totalNumTools++;
+}else{
+    console.log("tool is not a plier.");
+}
+if(toolBoxOfTools(4)==="plier"){
+
+    totalNumTools++;
+}else{
+    console.log("tool is not a plier.");
+}
+
+console.log(totalNumTools +"pliers in the tool box");
