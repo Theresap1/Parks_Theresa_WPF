@@ -7,7 +7,29 @@
 
 //alert ("Testing 1,2,3");
 
-var toolBoxOfTools=("wrench" "pliers" "hammers" "screwdrivers")
+var toolBoxOfTools=("wrench" "plier" "hammer" "screwdriver""plier""screwdriver")
 console.log(toolBoxOfTools);
 
-//console.log(toolBoxOfTools[1]);
+console.log(toolBoxOfTools[1])
+
+    //Array length
+    console.log(toolBoxOfTools.length);
+if(toolBoxOfTools(0)==="plier"){
+
+    totalNumTools++;
+}else{
+    console.log("tool is not a plier.");
+}
+
+f(toolBoxOfTools(1)==="plier"){
+
+    totalNumTools++;
+}else{
+    console.log("tool is not a plier.");
+}
+if(toolBoxOfTools(2)==="plier"){
+
+    totalNumTools++;
+}else{
+    console.log("tool is not a plier.");
+}

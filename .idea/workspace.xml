@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5bc75533-60cb-4f1c-b0d7-5b2af025c502" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Parks_Theresa_Conditionals/Industry_Conditionals/js/conditional script.js" afterPath="$PROJECT_DIR$/Parks_Theresa_Conditionals/Industry_Conditionals/js/conditional script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Parks_Theresa_Conditionals/Personal_Conditionals/js/conditional script.js" afterPath="$PROJECT_DIR$/Parks_Theresa_Conditionals/Personal_Conditionals/js/conditional script.js" />
     </list>
     <ignored path="Parks_Theresa_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +28,8 @@
       <file leaf-file-name="conditional script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Parks_Theresa_Conditionals/Industry_Conditionals/js/conditional script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33898306" vertical-offset="0" max-vertical-offset="531">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.80225986" vertical-offset="9" max-vertical-offset="600">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -713,8 +712,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Parks_Theresa_Conditionals/Industry_Conditionals/js/conditional script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33898306" vertical-offset="0" max-vertical-offset="531">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.80225986" vertical-offset="9" max-vertical-offset="600">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
