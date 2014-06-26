@@ -23,4 +23,4 @@ console.log(measurements);
 
 //Console.log and alert with final info
 console.log(measurements+" measurements.");
-alert(measurements+"   measurements.");
+alert(measurements+"  + measurements.");
