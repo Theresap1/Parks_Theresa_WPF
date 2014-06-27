@@ -18,8 +18,8 @@ while (number <= 20)
     console.log( printnNumber + " evenNumber ");
     number += 2;
 }
-
-if(number != "2,4,6,8,10 "){
+//even numbers are 2,4,6,8,10,12,14,16,18,20
+if(number != "2,4,6,8,10,12,14,16,18,20 "){
 
  number = prompt("Please type in a even number between 1 and 20 ") ;
 }
