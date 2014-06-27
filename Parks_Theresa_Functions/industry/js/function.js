@@ -6,7 +6,7 @@
 //alert ("Testing 1,2,3");
 
 
-//var number = prompt(" Please type in even number between 1 and 20:");
+var number = prompt(" Please type in even number between 1 and 20:");
 
 
 
@@ -15,7 +15,7 @@
 
 while (number <= 20)
 {
-    console.log( printnNumber + " evenNumber ");
+    console.log( printNumber + " evenNumber ");
     number += 2;
 }
 //even numbers are 2,4,6,8,10,12,14,16,18,20
@@ -24,3 +24,11 @@ if(number != "2,4,6,8,10,12,14,16,18,20 "){
  number = prompt("Please type in a even number between 1 and 20 ") ;
 }
 
+evenNumber ===2,4,6,8,10,12,14,16,18,29
+if(evenNumber ===""){
+    evenNumber != prompt(" Please type in evenNumber")
+
+}while(Naevennumber){
+
+
+}
