@@ -32,9 +32,17 @@
 //console.log(result);
 
 
-var areaCode = 410;
-var firstPart = 957;
-var secPart = 2789;
+//var areaCode = 410;
+//var firstPart = 957;
+//var secPart = 2789;
 
-var phoneNo = "(" + String(areaCode) + ")"+ String(firstPart) + "-"+ String(secPart);
-console.log(phoneNo);
+//var phoneNo = "(" + String(areaCode) + ")"+ String(firstPart) + "-"+ String(secPart);
+//console.log(phoneNo);
+
+//Assignment operators
+
+var a =3;
+a += 4; //is same as a = a + 4  to multiply a *= 4;  // a = a * 4
+console.log(a);
+
+//a ++;  // a= a + 1   // a -=1  all three of these get same result
