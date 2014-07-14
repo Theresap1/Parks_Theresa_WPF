@@ -10,9 +10,17 @@
 
 //Expressions concatenating strings
 
-var firstName = "Theresa";
-var lastName = "Parks";
-var fullName = firstName + " " + lastName;
-console.log(fullName);
+//var firstName = "Theresa";
+//var lastName = "Parks";
+//var fullName = firstName + " " + lastName;
+//console.log(fullName);
 
+
+
+var a =  6; //"6"
+
+var b =  7; //"7"
+
+var result = a + b;
+console.log(result);
 
