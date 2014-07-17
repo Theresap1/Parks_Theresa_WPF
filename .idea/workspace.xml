@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bc75533-60cb-4f1c-b0d7-5b2af025c502" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions assignments/Wacky/index.HTML.html" afterPath="$PROJECT_DIR$/Expressions assignments/Wacky/index.HTML.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions assignments/Wacky/js/script.js" afterPath="$PROJECT_DIR$/Expressions assignments/Wacky/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions assignments/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Expressions assignments/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions assignments/Industry-specific/index.HTML.html" afterPath="$PROJECT_DIR$/Expressions assignments/Industry-specific/index.HTML.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions assignments/Industry-specific/js/script.js" afterPath="$PROJECT_DIR$/Expressions assignments/Industry-specific/js/script.js" />
     </list>
     <ignored path="Parks_Theresa_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,10 +36,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.HTML.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions assignments/Industry-specific/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.12729844" vertical-offset="0" max-vertical-offset="707">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.HTML.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Expressions assignments/Industry-specific/index.HTML.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.HTML.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Expressions assignments/Wacky/index.HTML.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21961933" vertical-offset="0" max-vertical-offset="683">
+            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
               <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
               <folding />
             </state>
@@ -51,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/Expressions assignments/Personal/JS/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -104,6 +123,8 @@
         <option value="$PROJECT_DIR$/Parks_Theresa_Functions/industry/js/function.js" />
         <option value="$PROJECT_DIR$/Expressions assignments/Wacky/index.HTML.html" />
         <option value="$PROJECT_DIR$/Expressions assignments/Wacky/js/script.js" />
+        <option value="$PROJECT_DIR$/Expressions assignments/Industry-specific/index.HTML.html" />
+        <option value="$PROJECT_DIR$/Expressions assignments/Industry-specific/js/script.js" />
       </list>
     </option>
   </component>
@@ -274,6 +295,28 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="Industry-specific">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Parks_Theresa_WPF ">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Expressions assignments">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Industry-specific">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="js">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -502,10 +545,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions assignments/Personal/JS/script.js">
+    <entry file="file://$PROJECT_DIR$/Expressions assignments/Wacky/index.HTML.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="707">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
           <folding />
         </state>
       </provider>
@@ -518,10 +561,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions assignments/Wacky/index.HTML.html">
+    <entry file="file://$PROJECT_DIR$/Expressions assignments/Personal/JS/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21961933" vertical-offset="0" max-vertical-offset="683">
-          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions assignments/Industry-specific/index.HTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions assignments/Industry-specific/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12729844" vertical-offset="0" max-vertical-offset="707">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
