@@ -26,9 +26,11 @@ console.log(palletsProcessed);
 
 //calculations of total crabs processed for that day
 
-var totalCrabs =traysPerCase*crabsPerTray*casesPerPallet;
-console.log(totalCrabs);
+var totalCrabsPerPallet =traysPerCase*crabsPerTray*casesPerPallet;
+console.log(totalCrabsPerPallet);
 
-alert("You Processed this many crabs today"+totalCrabs);
+var totalCrabsPocessed =totalCrabsPerPallet*totalPallets;
+
+alert("You Processed this many crabs today"+totalCrabsPerPallet);
 
 
