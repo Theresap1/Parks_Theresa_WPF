@@ -14,7 +14,12 @@ var crabsPerTray =("30 crabs");
 console.log(crabsPerTray);
 
 
+//create variable to show how many cases per pallet
 
+var casesPerPallet =("24 cases per pallet");
+console.log("casesPerPallet");
+
+//
 
 
 
