@@ -6,8 +6,8 @@
 
 //create a variable to show how many soft crabs we process in a day
  // create variable for how many trays per case
-var crabsProcessed =("3 trays per case");
-console.log(crabsProcessed);
+var traysPerCase =("3 trays per case");
+console.log(traysPerCase);
 
 // create variable for how many crabs per tray
 var crabsPerTray =("30 crabs per tray");
@@ -23,6 +23,11 @@ console.log(casesPerPallet);
 
 var palletsProcessed =prompt("How many pallets processed today");
 console.log(palletsProcessed);
+
+//calculations of total crabs processed for that day
+
+var totalCrabs =traysPerCase*crabsPerTray*casesPerPallet*palletsProcessed;
+console.log(totalCrabs);
 
 
 
