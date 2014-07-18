@@ -11,3 +11,5 @@ var result = width * height; // calculates width that info
 //console.log(area); //prints it out to console
 
 
+var result = "The area of your rectangle is " + area + "sq feet";
+alert(result);
