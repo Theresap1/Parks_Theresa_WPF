@@ -12,7 +12,7 @@ console.log(name);
 
 alert (" Hello "  +name);
 
-prompt("Do you want Saturaday off");
+prompt("Do you want Saturday off");
 
 
 var hoursWorked = prompt("Hours worked by friday");
