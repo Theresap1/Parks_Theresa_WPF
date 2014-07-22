@@ -12,16 +12,17 @@ var amountSaved=prompt("How much money have you saved 500 or 1000 or 3000");
 
 
 if  (amountSaved == 500){
-    console.log ("you go to atlantic City");
-}
 
-else if (amountSaved == 1000){
-    console.log (" you go to Vegas");
-}
+    console.log("you go to atlantic City");
 
-else  (amountSaved == 3000){
-    console.log (" you go to Disney world");
 
-};
+}else if{ (amountSaved == 1000)
+
+    console.log(" you go to Vegas");
+}else  (amountSaved == 3000){
+
+    console.log(" you go to Disney world");}
+
+
 
 
