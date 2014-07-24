@@ -12,13 +12,14 @@ var amountSaved=Number(prompt("How much money have you saved 500 or 1000 or 3000
 
 
 if (amountSaved===3000){
-    console.log("goToAtlanticCity");
+    console.log("go To Disney World");
 } else if(amountSaved===1000 ){
-    console.log("go to vegas");
+    console.log("go to Vegas");
 
 
 }else if(amountSaved === 500){
-  console.log("go to disney");
+  console.log("go to Atlantic City");
 }else{
     console.log("You need to type in 500, 1000, 3000. ")
+
 }
