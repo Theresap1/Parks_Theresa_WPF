@@ -10,7 +10,7 @@ alert (" Hello "  +name);
 
 prompt(" Would you like it if it rained gumdrops or chocolate?");
 
-var temp = 65;
+var temp =prompt("please type in today's temperature");
 console.log(temp);
 
 if(temp > 65){
@@ -18,3 +18,4 @@ if(temp > 65){
 }else{
     console.log(" it will rain gumdrops!");
 }
+//alert (" Hello " + name + temp );
