@@ -10,7 +10,11 @@ alert (" Hello "  +name);
 
 prompt(" Would you like it if it rained gumdrops or chocolate?");
 
-var temp > 65;
+var temp = 65;
 console.log(temp);
 
-
+if(temp > 65){
+    console.log(" it will rain chocolate!");
+}else{
+    console.log(" it will rain gumdrops!");
+}
