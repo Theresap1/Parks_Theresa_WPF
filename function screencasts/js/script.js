@@ -75,7 +75,7 @@ var age1 = 4;// get same results
 
 //Returning values
 
-var total = calcArea(30, 20);
+/*var total = calcArea(30, 20);
 
 function  calcArea(w, h){
     var area = w * h;
@@ -84,14 +84,28 @@ function  calcArea(w, h){
 
 console.log(total);
 
+*/
+//Anonymous Functions
+// also called closures
+// are functions created as the code is run
+
+/*var functionName = function(){
+    //code the function runs
+}
+
+functionName()
+;
+
+*/
+var calcArea = function(width , height){//defining function
+  //code the function runs
+    var area = width * height;
+    return area;
+}
 
 
-
-
-
-
-
-
+var a = calcArea(20, 30); //involking has to come after the function
+console.log(a);
 
 
 
