@@ -61,7 +61,7 @@ function calcArea(w,h){ // w=30 h=20    // parameters
     console.log(area);
 }
 */
-function dogYears(age){ //put age in the () to be able to get multiple ansers when called
+/*function dogYears(age){ //put age in the () to be able to get multiple ansers when called
     //var age =4;
     var dogYears = age * 7;
     console.log("Sparky is "+ dogYears + "years old.")
@@ -71,9 +71,18 @@ dogYears(age1);
 dogYears(2);
 var age1 = 4;// get same results
 
+*/
 
+//Returning values
 
+var total = calcArea(30, 20);
 
+function  calcArea(w, h){
+    var area = w * h;
+    return area;
+}
+
+console.log(total);
 
 
 
