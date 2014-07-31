@@ -3,3 +3,8 @@
  */
 
 alert("a,b,c");
+
+
+function lotterynumber(){
+
+}
