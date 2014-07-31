@@ -9,7 +9,11 @@ alert("1,2,3");
 
 alert=prompt(" Type in house price before discount");
 
+//create a function for first time buyer discount
 
+function firstTimeBuyerDiscount(){
+    
+}
 
 
 
