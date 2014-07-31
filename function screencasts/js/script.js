@@ -43,9 +43,9 @@ console.log(width);
 //if it is called on the inside of the function then it will use the var in the function
 */
 
-/*Arguments and Parameters
+//Arguments and Parameters
 
- */
+
 
 
 /*functionName (argument1, argument2);
@@ -61,7 +61,7 @@ function calcArea(w,h){ // w=30 h=20    // parameters
     console.log(area);
 }
 */
-/*function dogYears(age){ //put age in the () to be able to get multiple ansers when called
+/*function dogYears(age){ //put age in the () to be able to get multiple answers when called
     //var age =4;
     var dogYears = age * 7;
     console.log("Sparky is "+ dogYears + "years old.")
@@ -93,19 +93,22 @@ console.log(total);
     //code the function runs
 }
 
-functionName()
-;
+functionName();
 
 */
-var calcArea = function(width , height){//defining function
+//var calcArea = function(width , height){//defining function
   //code the function runs
-    var area = width * height;
-    return area;
-}
+ //   var area = width * height;
+ //   return area;
+//}
 
 
-var a = calcArea(20, 30); //involking has to come after the function
-console.log(a);
+
+//var a = calcArea(20, 30); //involking has to come after the function
+//console.log(a);
+
+
+
 
 
 
