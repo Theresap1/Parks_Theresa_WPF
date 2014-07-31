@@ -4,7 +4,9 @@
 
 alert("a,b,c");
 
-
-function lotterynumber(){
+//create name for function for picking lottery numbers
+function lotterynumber(minNum, maxNum){
+   // create a variable to hold lottery numbers
+    var lotteryNumbers= Math.random()* (maxNum-minNum)+ minNum;
 
 }
