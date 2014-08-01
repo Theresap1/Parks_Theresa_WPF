@@ -10,4 +10,12 @@ function mySweetTooth=[]
 
 //created variable for my function
 var mySweetTooth
+//create an array for my sweets
+mySweetTooth[0]=bananas
+mySweetTooth[1]=bubblegum
+mySweetTooth[2]=icecream
+mySweetTooth[3]=fudge
+mySweetTooth[4]=cookies
+
+Function mySweetTooth(){}
 
