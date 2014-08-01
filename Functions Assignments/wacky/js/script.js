@@ -27,4 +27,4 @@ Function mySweetTooth()
 //create a print out of item selection
 }
     document.write(mySweetTooth) + [randomSweets];
-    console.log(mySweetTooth);
+    console.log(mySweetTooth)
