@@ -17,9 +17,14 @@ mySweetTooth[2]=icecream
 mySweetTooth[3]=fudge
 mySweetTooth[4]=cookies
 
-Function mySweetTooth(){
-
-    var random Sweets = Math.floor(Math.random() * (mySweetTooth.length));
+Function mySweetTooth()
+{
+    //var mySweetTooth = randomSweets
+    var randomSweets = Math.floor(Math.random() * (mySweetTooth.length));
     //created variable to randomly select any of my sweets listed
-}
 
+
+//create a print out of item selection
+}
+    document.write(mySweetTooth) + [randomSweets];
+    console.log(mySweetTooth);
