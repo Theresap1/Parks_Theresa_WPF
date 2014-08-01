@@ -3,5 +3,11 @@
  */
 
 
-alert ("a,b,c");
+//alert ("a,b,c");
+
+//named my function
+function mySweetTooth=[]
+
+//created variable for my function
+var mySweetTooth
 
