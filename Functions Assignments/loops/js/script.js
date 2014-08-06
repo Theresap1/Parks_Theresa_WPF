@@ -17,7 +17,7 @@ function whileLoop(){
     var count =25;
    // create a while loop to start count from 0
     while (count>0){
-        Document.write ("the value of counts"+ count+ "<br />");
+        console.log("the value of counts "+ count);
         count--;
 
     }
@@ -25,4 +25,4 @@ function whileLoop(){
 
 }
 
-console.log(whileLoop());
+whileLoop();

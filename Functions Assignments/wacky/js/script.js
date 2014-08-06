@@ -6,16 +6,15 @@
 //alert ("a,b,c");
 
 //named my function
-function mySweetTooth =[]
+function mySweetTooth=[0,1,2,3,4];
 
 //created variable for my function
-var mySweetTooth
-//create an array for my sweets
-mySweetTooth[0]=bananas;
-mySweetTooth[1]=bubblegum;
-mySweetTooth[2]=icecream;
-mySweetTooth[3]=fudge;
-mySweetTooth[4]=cookies;
+
+//create an array for my function
+
+
+
+
 
 Function mySweetTooth(){
     //var mySweetTooth = randomSweets
@@ -25,5 +24,5 @@ Function mySweetTooth(){
 
 //create a print out of item selection
 }
-    document.write(mySweetTooth) + [randomSweets];
-    console.log(mySweetTooth)
+    (mySweetTooth) + [randomSweets];
+    console.log(mySweetTooth);

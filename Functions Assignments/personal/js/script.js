@@ -4,27 +4,26 @@
 
 //alert("a,b,c");
 
-
-lotterynumber(minNum,maxNum);
+var minNum= 0;
+var maxNum= 69;
 
 //create name for function for picking lottery numbers
 
 
-function functionLotteryNumber (){
+//Parameter- Goes in the function definition - import numbers or variables into the function
+
+function lotteryNumber (min, max){
 
    // create a variable to hold lottery numbers
 
-   // create a variable to hold the min and max number
+   // We use parameter instead of outside variables!!!
 
-    var lotteryNumber;
-    var minNum, maxNum;
-    minNum = 0;
-    maxNum = 96;
-    console.log(lotteryNumber);
-    console.log(min, max);
 
-    var lotteryNumber = Math.round(math.random) * (maxNum - minNum) + Number(minNum);
+    var lotteryNumber = Math.round(Math.random() * (max - min) + Number(min));
+    //console.log(lotteryNumber);
 
+    //Return the loterryNumber so we can use it outside of the function
+    return lotteryNumber;
 
     //console.log(lotteryNumber);
 }
@@ -33,6 +32,11 @@ function functionLotteryNumber (){
     //creating a for loop to pick 6 random numbers for lottery
 for(var a=0; a<6; a++){
 
-    console.log(lotteryNumber(minNum,maxNum));
+    //Arguements go in the function call
+    //Crate a variable that CATCHES the RETURNED value from the function
+   var results = lotteryNumber(minNum,maxNum);
+
+    //We use the returned value
+    console.log(" Your lucky number is "+results);
 
 }
